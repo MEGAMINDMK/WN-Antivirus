@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://imgur.com/AF3Jf5F.png" width="100" height="100" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://imgur.com/AF3Jf5F.png" width="300" height="300" border="0"></a>
 </p>
 
 # Webnet-Antivirus
